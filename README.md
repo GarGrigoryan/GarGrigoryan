@@ -1,16 +1,15 @@
-## Hi there 👋
+##👋 Hi, I'm Garik
 
-<!--
-**GarGrigoryan/GarGrigoryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer & IoT Specialist
 
-Here are some ideas to get you started:
+I design, deploy, and maintain scalable infrastructure and connected IoT systems, with a strong focus on automation, reliability, and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I work with
+
+☁️ DevOps & Infrastructure: Docker, CI/CD, Linux, Networking, Monitoring
+
+🧠 Backend & Systems: APIs, databases, self-hosted services
+
+🔌 IoT & Embedded: ESP32, sensors, MQTT, BLE, real-time data processing
+
+I enjoy turning complex systems into simple, reliable solutions.
